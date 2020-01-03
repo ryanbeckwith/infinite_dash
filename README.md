@@ -1,5 +1,8 @@
 # infinite_dash
-A parody of the popular platformer Geometry Dash, built around a series of endless template obstacles that the player must dodge. Written as the final project for an AP Computer Science course in Java.
+A parody of the popular platformer Geometry Dash, built around a series of endless template obstacles that the player must dodge. Written as the final project for an AP Computer Science course in Java.\
+\
+![Screenshot_71](https://raw.githubusercontent.com/ryanbeckwith/infinite_dash/master/Screenshot_71.png)\
+![Screenshot_72](https://raw.githubusercontent.com/ryanbeckwith/infinite_dash/master/Screenshot_72.png)
 ### Controls
 space - Causes the red square to jump.
 ### Running this program
